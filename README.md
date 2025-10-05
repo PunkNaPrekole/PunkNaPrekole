@@ -17,6 +17,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white" alt="Pydantic">
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/gRPC-4285F4?logo=google&logoColor=white" alt="gRPC">
+  <img src="https://img.shields.io/badge/Protobuf-4A73C4?logo=protobuf&logoColor=white" alt="Protobuf">
   <img src="https://img.shields.io/badge/asyncio-008080?logo=python&logoColor=white" alt="asyncio">
   <img src="https://img.shields.io/badge/MAVLink-1EB4F4?logo=drone&logoColor=white" alt="MAVLink">
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy">
